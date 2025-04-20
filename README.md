@@ -10,7 +10,7 @@ I prefer **TypeScript** cause I am used to C# and I am studying it at my Compute
 ## 🛠️ Technology Stack:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=for-the-badge&logoColor=white)](#)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=for-the-badge&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
